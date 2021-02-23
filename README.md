@@ -1,5 +1,7 @@
 # devops-netology
-##.gitignore/terraform
+
+## terraform/.gitignore
+
 1. Директория terraform
 1. Файлы состояния terraform
 1. Логи
